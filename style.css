@@ -61,3 +61,16 @@ body {
  weight:20px;
   height:100px;
 }
+.loginov{
+    text-align:center;
+    }
+    p{
+    font-family:sans-serif;
+    }
+.gallery {
+    display: flex;
+    width: 1500px;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
