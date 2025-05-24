@@ -6,19 +6,17 @@ body {
             padding: 0px;
         }
         header {
-            background: #0055aa;
+            background: linear-gradient(to right, #0077cc, #004488);
             color: white;
             padding: 20px;
             text-align: center;
-            border-bottom: inset  blue;
-            
         }
         h1 {
             margin: 0;
             font-size: 2em;
         }
         nav {
-            background: #4682B4;
+            background: #0055aa;
             padding: 10px;
             text-align: center;
         }
@@ -28,22 +26,38 @@ body {
             margin: 0 10px;
             font-weight: bold;
         }
-.gallery {
-    display: flex;
-    width: 1500px;
-    flex-wrap: wrap;
-    justify-content:center;
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        img {
+            width:550px;
+            height:250px;
+          border-radius:15px;
+        }
+        
+        }
+        footer {
+            background: #004488;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+        }
+        ul {
+            padding-left: 20px;
+        }
+
+.vol{
+ weight:20px;
+  height:100px;
 }
-    img {
-    width:369px;
-    height:360px;
-    }
-    .loginov{
-    text-align:center;
-    }
-    p{
-    font-family:sans-serif;
-    }
-    li{
-       
-    }
