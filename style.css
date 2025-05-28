@@ -25,9 +25,7 @@ body {
             text-decoration: none;
             margin: 0 10px;
             font-weight: bold;
-        }
-        .container {
-         
+        } 
             
         }
         section {
@@ -50,16 +48,16 @@ body {
             padding-left: 20px;
         }
 
-.vol{
+.vol {
  width:20px;
   height:100px;
 }
-.loginovg{
+.loginovg {
     text-align:center;
     width:250px;
     height:300px;
     }
-    p{
+    p {
     font-family:sans-serif;
     }
 .gallery {
@@ -67,9 +65,6 @@ body {
     width: 1500px;
     flex-wrap: wrap;
     justify-content:center;
-}
-section {
- 
 }
 
 }
