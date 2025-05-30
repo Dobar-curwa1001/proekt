@@ -7,6 +7,7 @@ body {
         }
         header {
             background: linear-gradient(to right, #0077cc, #004488);
+          border-top:inset MediumBlue;
           color:white;
             color: white;
             padding: 20px;
@@ -55,16 +56,16 @@ body {
   height:100px;
 }
 .loginovg{
- text-align:center;
- width:250px;
+    text-align:center;
+    width:250px;
     height:300px;
     }
     p{
     font-family:sans-serif;
     }
 .gallery {
- display: flex;
-width: 750px;
+    display: flex;
+    width: 750px;
 }
 .ll{
  text-align: center;
@@ -88,9 +89,9 @@ display: flex;
 width:810px;
 }
 .planet{
- display:flex;
+  display:flex;
  width:450px;
- height:300px;
+  height:300px;
 }
 .ges{
  width:530px;
@@ -118,4 +119,8 @@ width:810px;
 }
 .vgsp{
  text-align:center;
+}
+.stroitelstvo{
+ display:flex;
+  width:250px;
 }
