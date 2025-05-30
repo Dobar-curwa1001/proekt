@@ -85,10 +85,37 @@ body {
 }
 .kartinki{
 display: flex;
- width:810px;
+width:810px;
 }
 .planet{
   display:flex;
  width:450px;
   height:300px;
+}
+.ges{
+ width:530px;
+ height:350px;
+}
+.tramvaq{
+ width:530px;
+ height:350px; 
+}
+.vgc{
+ width:530px;
+ height:480px; 
+}
+.transport{
+ text-align:center;
+}
+.mesta{
+ text-align:center;
+}
+.gidro{
+ text-align:center;
+}
+.textgas{
+  text-align:center;
+}
+.vgsp{
+ text-align:center;
 }
