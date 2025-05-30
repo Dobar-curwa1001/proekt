@@ -64,7 +64,7 @@ body {
     }
 .gallery {
     display: flex;
-    width: 1500px;
+    width: 900px;
     flex-wrap: wrap;
     justify-content:center;
 }
