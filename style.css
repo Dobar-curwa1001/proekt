@@ -2,11 +2,12 @@ body {
             font-family: 'Segoe UI', sans-serif;
             background: #f0f8ff;
             color: #333;
-           margin: 0px;
+            margin: 0px;
             padding: 0px;
         }
         header {
             background: linear-gradient(to right, #0077cc, #004488);
+          color:white;
             color: white;
             padding: 20px;
             text-align: center;
@@ -19,18 +20,17 @@ body {
             background: #0055aa;
             padding: 10px;
             text-align: center;
+            border:inset MediumBlue;
+            box-shadow: 2px 2px 4px rgba(135, 206, 250);
         }
         nav a{
-            color: white;
+            color: Snow;
             text-decoration: none;
             margin: 0 10px;
             font-weight: bold;
-        }
-        .container {
-         
-            
-        }
-        section {
+          }     
+                            
+       section {
             background: white;
             padding: 20px;
             margin-bottom: 20px;
@@ -64,9 +64,7 @@ body {
     }
 .gallery {
     display: flex;
-    width: 900px;
-    flex-wrap: wrap;
-    justify-content:center;
+    width: 750px;
 }
 .ll{
  text-align: center;
