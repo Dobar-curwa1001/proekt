@@ -55,16 +55,16 @@ body {
   height:100px;
 }
 .loginovg{
-    text-align:center;
-    width:250px;
+ text-align:center;
+ width:250px;
     height:300px;
     }
     p{
     font-family:sans-serif;
     }
 .gallery {
-    display: flex;
-    width: 750px;
+ display: flex;
+width: 750px;
 }
 .ll{
  text-align: center;
@@ -88,9 +88,9 @@ display: flex;
 width:810px;
 }
 .planet{
-  display:flex;
+ display:flex;
  width:450px;
-  height:300px;
+ height:300px;
 }
 .ges{
  width:530px;
