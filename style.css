@@ -86,12 +86,7 @@ body {
 }
 .kartinki{
 display: flex;
-width:810px;
-}
-.planet{
-  display:flex;
- width:450px;
-  height:300px;
+width:600px;
 }
 .ges{
  width:530px;
